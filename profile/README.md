@@ -6,7 +6,7 @@ Hoard CTI gathers threat intelligence from across the internet, enriches it, and
 
 It's built for anyone, from solo analysts and students to SOC teams and large organisations. The feed is free to use, with little to no limits.
 
-[Website](https://hoardcti.com) · [Documentation](https://docs.hoardcti.com) · [Community](https://community.hoardcti.com) · [Donate](https://github.com/sponsors/NotReeceHarris) · [Contact](mailto:support@hoardcti.com)
+[Website](https://hoardcti.com) · [Documentation](https://docs.hoardcti.com) · [Community](https://community.hoardcti.com) · [Roadmap](https://roadmap.hoardcti.com) · [Donate](https://github.com/sponsors/NotReeceHarris) · [Contact](mailto:support@hoardcti.com)
 
 ---
 
